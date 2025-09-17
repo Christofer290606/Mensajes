@@ -1,0 +1,20 @@
+<productos>
+  <producto>
+    <id>1</id>
+    <nombre>Laptop Gamer</nombre>
+    <precio>25000</precio>
+    <descripcion>Portátil de alto rendimiento para juegos</descripcion>
+  </producto>
+  <producto>
+    <id>2</id>
+    <nombre>Smartphone</nombre>
+    <precio>12000</precio>
+    <descripcion>Teléfono de última generación</descripcion>
+  </producto>
+  <producto>
+    <id>3</id>
+    <nombre>Audífonos Inalámbricos</nombre>
+    <precio>1500</precio>
+    <descripcion>Sonido envolvente y batería de larga duración</descripcion>
+  </producto>
+</productos>
