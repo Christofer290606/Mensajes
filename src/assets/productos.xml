@@ -1,20 +1,20 @@
 <productos>
   <producto>
     <id>1</id>
-    <nombre>Laptop Gamer</nombre>
-    <precio>25000</precio>
-    <descripcion>Portátil de alto rendimiento para juegos</descripcion>
+    <nombre>Pan Blanco</nombre>
+    <precio>250</precio>
+    <descripcion>artesanal y con lacteos</descripcion>
   </producto>
   <producto>
     <id>2</id>
-    <nombre>Smartphone</nombre>
-    <precio>12000</precio>
-    <descripcion>Teléfono de última generación</descripcion>
+    <nombre>Pan Integral</nombre>
+    <precio>120</precio>
+    <descripcion>con masa madre</descripcion>
   </producto>
   <producto>
     <id>3</id>
-    <nombre>Audífonos Inalámbricos</nombre>
-    <precio>1500</precio>
-    <descripcion>Sonido envolvente y batería de larga duración</descripcion>
+    <nombre>Pan Multigrano</nombre>
+    <precio>150</precio>
+    <descripcion>Con gran proceso de elaboracion</descripcion>
   </producto>
 </productos>
